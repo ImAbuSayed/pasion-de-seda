@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-de-seda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Pasión de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-de-seda/) |
+| **Get License** | [Get License For Pasión de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-de-seda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, la noche nos llama y no hay vuelta atrás
+> Siento tu fuego quemando, baby, tú pides más
+> Brillando en lo oscuro, esta vibra te enreda
+> Envueltos los dos en pasión de seda
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

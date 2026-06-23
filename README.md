@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-de-seda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Pasión de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-de-seda/) |
+| **Get License** | [Secure Licensing Rights for Pasión de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-de-seda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3da25e31e0cd8590bdb9fcf3eba184b64d2fafbb4456752a4de120de137405f7` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
